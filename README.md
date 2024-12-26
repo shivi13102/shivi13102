@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivi13102" alt="shivi13102" /></a> </p>
 
-- 🔭 I’m currently working on **Plant disease detection**
+- 🔭 I’m currently working on **Earthquake Analysis**
 
-- 🌱 I’m currently learning **Deep learning and lang chain**
+- 🌱 I’m currently learning **AI - ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivi13102](https://github.com/shivi13102)
 
